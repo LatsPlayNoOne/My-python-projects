@@ -1,3 +1,2 @@
-you need:
-
-- pygame
+- **Required for Execution:**
+  - [pygame](https://www.pygame.org/)
