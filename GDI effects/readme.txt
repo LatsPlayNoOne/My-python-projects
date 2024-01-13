@@ -1,4 +1,4 @@
-you need:
+you need for run:
 
 - pywin32
 - ctypes
